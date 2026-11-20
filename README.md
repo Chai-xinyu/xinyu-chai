@@ -1,5 +1,4 @@
 # xinyu-chai
-# [Your Name]
 
 Electrocatalysis and AI for Science. I work on turning literature into data,
 and data into catalysts.
@@ -25,8 +24,4 @@ The goal is simple — every number traceable to the paper it came from.
 
 `DFT (VASP)` `Python` `pandas` `scikit-learn` `LangChain` `Materials Studio` `ChemDraw`
 
-## Contact
 
-- Email: [your email]
-- Affiliation: [your institution]
-- ORCID: [your ORCID, optional]
